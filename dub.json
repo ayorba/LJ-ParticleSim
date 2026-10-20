@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Alden Yorba"
+	],
+	"copyright": "Copyright © 2026, Alden Yorba",
+	"dependencies": {
+		"bindbc-sdl": "~>2.2.0"
+	},
+	"description": "A minimal Lennard-Jones Particle Simulation",
+	"license": "proprietary",
+	"name": "prog"
+}

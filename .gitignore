@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/final_project
+final_project.so
+final_project.dylib
+final_project.dll
+libfinal_project.a
+final_project.a
+final_project.lib
+final_project-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
